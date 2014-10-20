@@ -2,3 +2,5 @@ bmanager
 ========
 
 test
+
+siema Pawełku 
